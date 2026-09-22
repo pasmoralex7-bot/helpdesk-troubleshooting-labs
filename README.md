@@ -1,2 +1,56 @@
-# helpdesk-troubleshooting-labs
-Laboratorios prácticos de troubleshooting y Soporte IT Nivel 1.
+# 🖥️ Help Desk Labs — Soporte IT Nivel 1
+
+Este repositorio contiene mis laboratorios prácticos de troubleshooting orientados a desarrollar habilidades para trabajar en Soporte IT / Help Desk Nivel 1.
+
+Los escenarios se realizan principalmente en máquinas virtuales utilizando Windows y VirtualBox.
+
+##  Objetivo
+
+Desarrollar experiencia práctica en:
+
+- Diagnóstico de problemas de Windows
+- Troubleshooting de redes
+- TCP/IP
+- DNS y DHCP
+- Herramientas de diagnóstico
+- Servicios de Windows
+- Gestión de usuarios
+- Permisos
+- Software
+- Windows Server
+- Active Directory
+
+La dificultad de los laboratorios aumenta progresivamente.
+
+##  Entorno de laboratorio
+
+- Host: Windows 11
+- Virtualización: VirtualBox
+- Cliente: Windows 11
+- Servidor: Windows Server (laboratorios posteriores)
+- PowerShell
+- CMD
+
+##  Laboratorios
+
+| # | Laboratorio | Estado |
+|---|---|---|
+| 01 | Pérdida de conectividad de red | ✅ Completado |
+
+##  Metodología
+
+Para cada incidencia intento seguir un proceso estructurado:
+
+1. Analizar el problema reportado.
+2. Determinar el alcance.
+3. Recopilar información.
+4. Realizar pruebas.
+5. Formular una hipótesis.
+6. Identificar la causa.
+7. Aplicar una solución.
+8. Verificar el funcionamiento.
+9. Documentar la incidencia.
+
+---
+
+Este repositorio documenta mi progreso y aprendizaje práctico en Soporte IT.
