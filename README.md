@@ -36,6 +36,7 @@ La dificultad de los laboratorios aumenta progresivamente.
 | # | Laboratorio | Estado |
 |---|---|---|
 | 01 | [Pérdida de conectividad de red](ticket-01/README.md) | ✅ Resuelto, verificado y documentado |
+| 02 | [Acceso a una página web](ticket-02/README.md) | ✅ Resuelto, verificado y documentado |
 
 ##  Metodología
 
