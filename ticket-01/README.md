@@ -53,7 +53,7 @@ También aprendí la importancia de diferenciar entre:
 
 ## 🔧 Herramientas utilizadas
 
-- Windows 11
+- Windows 10
 - VirtualBox
 - PowerShell
 - Solucionador de problemas de Windows
