@@ -1,10 +1,20 @@
 # Lab 01 — Pérdida de conectividad de red
 
+**Tipo de práctica:** incidencia simulada en una máquina virtual con Windows 10 (VirtualBox).
+
 ## 📋 Ticket
 
 **Usuario:** Laura Benítez  
 **Departamento:** Administración  
 **Problema reportado:** El usuario informa que perdió el acceso a Internet. Otros usuarios de la empresa mantienen conexión normalmente.
+
+El usuario y el departamento forman parte del escenario simulado.
+
+### Estado inicial
+
+Windows mostraba que el equipo no estaba conectado a ninguna red.
+
+![Estado inicial sin conexión de red](Evidencias/01-estado-inicial.png)
 
 ---
 
@@ -13,6 +23,10 @@
 Al comprobar el estado de conectividad del equipo se detectó que el adaptador de red Ethernet se encontraba deshabilitado.
 
 Se utilizó el solucionador de problemas de Windows como herramienta de diagnóstico, que permitió detectar el problema relacionado con el adaptador de red.
+
+El solucionador indicó que el adaptador Ethernet estaba deshabilitado y solicitó permisos de administrador para continuar con la reparación.
+
+![Diagnóstico del adaptador Ethernet deshabilitado](Evidencias/02-diagnostico-adaptador.png)
 
 ---
 
@@ -26,6 +40,8 @@ El adaptador de red Ethernet del equipo estaba deshabilitado, impidiendo que Win
 
 Se habilitó nuevamente el adaptador Ethernet mediante el solucionador de problemas de Windows.
 
+![Solucionador de problemas con estado corregido](Evidencias/03-reparacion-corregida.png)
+
 ---
 
 ## ✅ Verificación
@@ -33,7 +49,7 @@ Se habilitó nuevamente el adaptador Ethernet mediante el solucionador de proble
 Después de habilitar el adaptador:
 
 - El equipo recuperó la conexión de red.
-- El acceso a Internet volvió a funcionar correctamente.
+- Abrí el navegador y comprobé que podía acceder a Internet. No se tomó una captura de esta prueba.
 
 ---
 
@@ -55,5 +71,6 @@ También aprendí la importancia de diferenciar entre:
 
 - Windows 10
 - VirtualBox
-- PowerShell
 - Solucionador de problemas de Windows
+- Configuración de red de Windows
+- Navegador web para la verificación

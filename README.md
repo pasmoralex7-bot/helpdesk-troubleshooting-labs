@@ -24,9 +24,9 @@ La dificultad de los laboratorios aumenta progresivamente.
 
 ##  Entorno de laboratorio
 
-- Host: Windows 11
+- Host: Windows 10
 - Virtualización: VirtualBox
-- Cliente: Windows 11
+- Cliente: Windows 10
 - Servidor: Windows Server (laboratorios posteriores)
 - PowerShell
 - CMD
@@ -35,7 +35,7 @@ La dificultad de los laboratorios aumenta progresivamente.
 
 | # | Laboratorio | Estado |
 |---|---|---|
-| 01 | Pérdida de conectividad de red | ✅ Completado |
+| 01 | [Pérdida de conectividad de red](ticket-01/README.md) | ✅ Resuelto, verificado y documentado |
 
 ##  Metodología
 
