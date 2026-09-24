@@ -37,6 +37,7 @@ La dificultad de los laboratorios aumenta progresivamente.
 |---|---|---|
 | 01 | [Pérdida de conectividad de red](ticket-01/README.md) | ✅ Resuelto, verificado y documentado |
 | 02 | [Acceso a una página web](ticket-02/README.md) | ✅ Resuelto, verificado y documentado |
+| 03 | [Archivo que no aparece](ticket-03/README.md) | ✅ Resuelto, verificado y documentado |
 
 ##  Metodología
 
