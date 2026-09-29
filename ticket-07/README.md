@@ -1,4 +1,4 @@
-# Lab 07 — Programa no inicia desde un acceso directo
+# Lab 06 — Programa no inicia desde un acceso directo
 
 **Tipo de práctica:** incidencia simulada en una máquina virtual con Windows 10 (VirtualBox).
 
