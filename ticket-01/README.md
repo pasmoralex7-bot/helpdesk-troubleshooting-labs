@@ -74,3 +74,7 @@ También aprendí la importancia de diferenciar entre:
 - Solucionador de problemas de Windows
 - Configuración de red de Windows
 - Navegador web para la verificación
+
+---
+
+*Ticket documentado y verificado en laboratorio.*
