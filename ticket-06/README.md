@@ -65,3 +65,7 @@ Esto confirmó que el acceso directo volvía a apuntar al archivo correcto y que
 - Explorador de archivos
 - Propiedades de accesos directos
 - Windows PowerShell
+
+---
+
+*Ticket documentado y verificado en laboratorio.*
