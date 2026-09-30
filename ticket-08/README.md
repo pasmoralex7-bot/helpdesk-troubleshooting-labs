@@ -18,8 +18,6 @@ Volví a abrir el acceso directo y comprobé que se podía acceder correctamente
 ## Evidencia
 La evidencia muestra que el acceso directo estaba configurado con la ruta incorrecta `\\localhost\DocumentosArchivo`.
 
-![Ruta incorrecta configurada en el acceso directo](Evidencias/01-ruta-incorrecta-acceso-directo.png)
-
 ## Estado
 **Resuelto**
 
